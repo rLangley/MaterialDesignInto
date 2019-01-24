@@ -1,3 +1,3 @@
 #MaterialDesignIntro
 
-![ScreenShot](SCREEN.PNG)
+![ScreenShot](Screen.PNG)
