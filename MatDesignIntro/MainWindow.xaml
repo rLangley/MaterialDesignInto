@@ -77,14 +77,14 @@
             <materialDesign:PackIcon Kind="Account" VerticalAlignment="Center" Margin="0 8" />
             <TextBlock Grid.Column="1" Margin="8" VerticalAlignment="Center" Height="16"> Name:</TextBlock>
             <TextBox Grid.Column="2" Margin="8,4" VerticalAlignment="Center" Height="24"></TextBox>
-            <materialDesign:PopupBox Grid.Column="3" Margin="8 0 0 0" Style="{StaticResource MaterialDesignMultiFloatingActionAccentPopupBox}">
+            <materialDesign:PopupBox Grid.Column="3" Margin="8 0 1 0" Style="{StaticResource MaterialDesignMultiFloatingActionAccentPopupBox}">
                 <materialDesign:PopupBox.ToggleContent>
                     <materialDesign:PackIcon Kind="Table" />
                 </materialDesign:PopupBox.ToggleContent>
                 <StackPanel>
-                    <Button>:)</Button>
+                    <Button>:}</Button>
                     <Button>:(</Button>
-                    <Button>:/</Button>
+                    <Button>:\</Button>
                 </StackPanel>
             </materialDesign:PopupBox>
             
@@ -95,7 +95,7 @@
             <materialDesign:Card Grid.Row="1" Margin="32" Grid.ColumnSpan="4" materialDesign:ShadowAssist.ShadowDepth="Depth2" VerticalAlignment="Stretch">
                 <StackPanel Orientation="Horizontal" Margin="10">
                     <materialDesign:PackIcon Kind="TwitterBox" Height="64" Width="64" />
-                    <TextBlock Margin="16 16 0 0" TextWrapping="Wrap">Texttexttext</TextBlock>
+                    <TextBlock Margin="16 16 0 0" TextWrapping="Wrap">Heres some text</TextBlock>
                 </StackPanel>
             </materialDesign:Card>
 
