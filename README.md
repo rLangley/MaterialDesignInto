@@ -1,3 +1,3 @@
 #MaterialDesignIntro
 
-![Alt text](SCREEN.PNG?raw=true "Material Design Intro")
+![ScreenShot](https://raw.github.com/rLangley/MaterialDesignInto/mater/SCREEN.PNG)
